@@ -1,5 +1,3 @@
-`include "full_adder.v" 
-
 module mult_array (
     input        clk,
     input        rst_n,
